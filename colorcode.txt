@@ -1,0 +1,27 @@
+The hex code for gold is .
+#FFD700
+
+A color that, for centuries, has captivated many,
+magenta is a mixture of violet and red. 
+Its hex code is .
+#FF00FF
+
+Teal is a deep blue-green color, 
+named for the colored area around the eye of the common teal bird.
+Its hex code is .
+#008080
+
+
+#THEME 1
+95% Amber 
+#F6BB17
+84% Prussian Blue 
+#0D1329
+90% Dark Khaki
+#D2B46C
+92% Dark Khaki
+#D5CD7F
+98% Old Lace
+#FFFCED
+86% Black
+#0D0E22
